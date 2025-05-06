@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+Currenlty learning and working on many machine learning projects.
+
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
