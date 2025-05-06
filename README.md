@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi there 👋 
 
-
-Currenlty learning and working on many machine learning projects.
+Hello, I'm Fikri. I learn machine learning, currently. This GitHub is the record of what I learned. 
 
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
