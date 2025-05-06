@@ -1,6 +1,8 @@
-# Hi there 👋 
+# Welcome to My GitHub 
 
-Hello, I'm Fikri. I learn machine learning, currently. This GitHub is the record of what I learned. 
+## About Me
+
+Hello, this is Fikri. I'm physics graduated from Institut Teknologi Kalimantan. I have learn the fundamentals of machine learning such as calculus, linear algebra, programming, and statistics. I currently passionate about machine learning and its application in various fields, such as business, economy, healthcare, and of course, physics. As a machine learning engineer or data scientist. As a data scientist and machine learning, primarly working on data analysis and prediction by using machine learning.
 
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
