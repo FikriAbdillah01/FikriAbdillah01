@@ -7,7 +7,7 @@ Hello, this is Fikri. I'm physics graduated from Institut Teknologi Kalimantan. 
 
 ## On Going Project
 There are several miniproject that currently being worked on
-- Gross Domestic Product Prediction
+- Gross Domestic Product Prediction (Time Series Analysis)
 - Tidy up GitHub Profile
 - Credit Card Fraud Note
 
