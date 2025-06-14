@@ -9,7 +9,7 @@ Hello, this is Fikri. I'm physics graduated from Institut Teknologi Kalimantan. 
 There are several miniproject that currently being worked on
 - Gross Domestic Product Prediction (Time Series Analysis)
 - Tidy up GitHub Profile
-- Credit Card Fraud Notebook
+
 
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
