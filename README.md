@@ -4,11 +4,6 @@
 
 Hello, this is Fikri. I'm physics graduated from Institut Teknologi Kalimantan. I have learn the fundamentals of machine learning such as calculus, linear algebra, programming, and statistics. I currently passionate about machine learning and its application in various fields, such as business, economy, healthcare, and of course, physics. As a data scientist, I'm primarly working on analysis and prediction. You can check out my portfolio of microprojects.
 
-## Contact
-You can call me with:
-
-- ![LinkedIn](www.linkedin.com/in/fikri-abdillah-833b0b245)
-
 
 ## On Going Project
 There are several miniproject that currently being worked on
