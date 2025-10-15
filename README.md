@@ -9,7 +9,7 @@ Hello, this is Fikri. I'm physics graduated from Institut Teknologi Kalimantan. 
 
 | Project | Area | Project Description |
 |----------| ----------- | ------------|
-
+| Credit Card Fraud | Scikit-learn, Searborn, Pandas, Matplotlib | Analysis the credit card fraud and create machine learning to detect it |
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
