@@ -7,7 +7,8 @@ Hello, this is Fikri. I'm physics graduated from Institut Teknologi Kalimantan. 
 
 ## Project List
 
-| Project | Area | Project Description |  
+| Project | Area | Project Description |
+|----------| ----------- | ------------|
 
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
