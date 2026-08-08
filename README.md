@@ -15,7 +15,7 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 *   **Tools & Platforms:** Jupyter Notebook, Git, GitHub, Docker, PostgreSQL, Tableau
 
 ### 📈 Current Focus
-I am currently looking for opportunities where I can apply my applied machine learning skills to real-world impact. I am highly interested in roles related to Data Analysis, Predictive Modeling, and Machine Learning Engineering.
+I am currently looking for opportunities where I can apply my applied machine learning skills to real-world impact. I am highly interested in roles related to Data Analysis, Predictive Modeling, Data Engineering, and Machine Learning Engineering.
 
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
