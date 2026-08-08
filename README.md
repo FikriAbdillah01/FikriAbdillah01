@@ -13,6 +13,10 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 *   **Languages:** Python, SQL
 *   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 *   **Tools & Platforms:** Jupyter Notebook, Git, GitHub
+
+### 📈 Current Focus
+I am currently looking for opportunities where I can apply my applied machine learning skills to real-world impact. I am highly interested in roles related to Data Analysis, Predictive Modeling, and Machine Learning Engineering.
+
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
