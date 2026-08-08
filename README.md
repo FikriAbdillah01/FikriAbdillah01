@@ -12,11 +12,16 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** Python, SQL
 *   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Tensorflow
-*   **Tools & Platforms:** Jupyter Notebook, Git, GitHub, Docker, PostgreSQL, Tableau
+*   **Tools & Platforms:** Jupyter Notebook, Git, GitHub, Docker, PostgreSQL, Tableau, Google Data Studio, Big Query 
 
 ### 📈 Current Focus
 I am currently looking for opportunities where I can apply my applied machine learning skills to real-world impact. I am highly interested in roles related to Data Analysis, Predictive Modeling, Data Engineering, and Machine Learning Engineering.
 
+
+### Dashboard Interaction
+
+* [Customer Churn Dashboard](https://datastudio.google.com/s/pZc782Ph-Nk)
+* [Chicago Crime Dashboard](https://datastudio.google.com/s/jZuJB2DHE9Q)
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
