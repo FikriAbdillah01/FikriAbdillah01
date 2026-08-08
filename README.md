@@ -11,7 +11,7 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** Python, SQL
-*   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Tensorflow
+*   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Tensorflow, DeepXDE, PyTorch
 *   **Tools & Platforms:** Jupyter Notebook, Git, GitHub, Docker, PostgreSQL, Tableau, Google Data Studio, Big Query 
 
 ### 📈 Current Focus
