@@ -24,6 +24,10 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 
 * [Customer Churn Dashboard](https://datastudio.google.com/s/pZc782Ph-Nk)
 * [Chicago Crime Dashboard](https://datastudio.google.com/s/jZuJB2DHE9Q)
+* [Dashboard of Waste Site in Texas](https://public.tableau.com/views/TexasMunicipalWaste/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [Dashboard of Bike Sales](https://public.tableau.com/shared/RTMCQQ2PX?:display_count=n&:origin=viz_share_link)
+* [Dashboard of Customer Analysis](https://public.tableau.com/views/WalmartstoreProgress/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [Dashboard of Road Accident](https://public.tableau.com/views/STILLPROGRESS/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
