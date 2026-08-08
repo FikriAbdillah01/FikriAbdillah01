@@ -1,15 +1,18 @@
 # Welcome to My GitHub 
 
-## About Me
+# Hi there, I'm Fikri Abdillah! 👋
 
-Hello, this is Fikri. I'm physics graduated from Institut Teknologi Kalimantan. I have learn the fundamentals of machine learning such as calculus, linear algebra, programming, and statistics. I currently passionate about machine learning and its application in various fields, such as business, economy, healthcare, and of course, physics. As a data scientist, I'm primarly working on analysis and prediction. You can check out my portfolio of microprojects.
+I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Enthusiast** with a strong foundation in calculus, linear algebra, and statistical modeling. I leverage my analytical background to solve complex data problems and extract actionable insights.
 
+### 🚀 What I Do
+*   **Data Analysis & Modeling:** Transforming raw data into predictive insights using Python and Machine Learning frameworks.
+*   **Problem Solving:** Applying rigorous scientific methodologies to business, economic, and healthcare datasets.
+*   **Continuous Learning:** Constantly expanding my portfolio with microprojects to master deployment and advanced engineering concepts.
 
-## Project List
-
-| Project | Area | Project Description |
-|----------| ----------- | ------------|
-| Credit Card Fraud | Scikit-learn, Searborn, Pandas, Matplotlib | Analysis the credit card fraud and create machine learning to detect it |
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Python, SQL
+*   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+*   **Tools & Platforms:** Jupyter Notebook, Git, GitHub
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
