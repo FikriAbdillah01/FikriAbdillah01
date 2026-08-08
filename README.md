@@ -10,7 +10,7 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 *   **Continuous Learning:** Constantly expanding my portfolio with microprojects to master deployment and advanced engineering concepts.
 
 ### 🛠️ Tech Stack & Tools
-*   **Languages:** ![Python](https://img.shield.io/badge/python), ![SQL](https://img.shield.io/badge/sql)
+*   **Languages:** [Python](https://img.shield.io/badge/python), [SQL](https://img.shield.io/badge/sql)
 *   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 *   **Tools & Platforms:** Jupyter Notebook, Git, GitHub
 
