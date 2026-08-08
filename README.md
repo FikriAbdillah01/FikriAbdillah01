@@ -11,8 +11,8 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** Python, SQL
-*   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
-*   **Tools & Platforms:** Jupyter Notebook, Git, GitHub
+*   **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Tensorflow
+*   **Tools & Platforms:** Jupyter Notebook, Git, GitHub, Docker, PostgreSQL, Tableau
 
 ### 📈 Current Focus
 I am currently looking for opportunities where I can apply my applied machine learning skills to real-world impact. I am highly interested in roles related to Data Analysis, Predictive Modeling, and Machine Learning Engineering.
