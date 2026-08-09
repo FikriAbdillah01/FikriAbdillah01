@@ -28,6 +28,15 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 * [Dashboard of Bike Sales](https://public.tableau.com/shared/RTMCQQ2PX?:display_count=n&:origin=viz_share_link)
 * [Dashboard of Customer Analysis](https://public.tableau.com/views/WalmartstoreProgress/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * [Dashboard of Road Accident](https://public.tableau.com/views/STILLPROGRESS/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Challenges 
+
+* [SQL Challenge Danny Dinner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Dannys%20Dinner%20problems)
+* [SQL Challenge Pizza Runner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Pizza%20Runner%20Problem)
+* [Kaggle Challenge: Titanic Problems](https://www.kaggle.com/code/fikriabdillah98/analyze-titanic-problems)
+* [Kaggle Challenge: Obesity Risk Prediction 1st](https://github.com/FikriAbdillah01/datascience-portfolio/blob/cbb2b572d96e0710ca59a0933d4df87f248ed192/Obesity%20Prediction/Obesity%20Prediction%20Ordinal%20Encoder%20XGBClassifier.ipynb)
+* [Kaggle Challenge: Obesity Risk Prediction 2nd ](https://www.kaggle.com/code/fikriabdillah98/obesity-prediction-2)
+
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
