@@ -20,7 +20,7 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 
 
 
-### Dashboard Interaction
+### Interactive Dashboard 
 
 * [Customer Churn Dashboard](https://datastudio.google.com/s/pZc782Ph-Nk)
 * [Chicago Crime Dashboard](https://datastudio.google.com/s/jZuJB2DHE9Q)
