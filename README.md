@@ -39,27 +39,17 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 
 ### 📊 Data Science Certificate
 
-- [Intermediate Machine Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intermediate%20Machine%20Learning.png)
-
-- [Introduction to SQL by Kaggle](certificate/Fikri%20Abdillah%20-%20Intro%20to%20SQL.png)
-
-- [Introduction to Machine Learning](certificate/Fikri%20Abdillah%20-%20Intro%20to%20Machine%20Learning%20(1).png)
-
-- [Data Wragling by DQLab](certificate/certificate-DQLABDTWP1UAUDBS.pdf)
-
-- [Machine Learning with Python for Beginner by DQLab](certificate/certificate-DQLABDVIZ2JEWCRW.pdf)
-
-- [Python for Data Professional Beginner by DQLab](certificate/certificate-DQLABINTP1EJGMHD.pdf)
-
-- [Python Fundamental for Data Science by DQLab](certificate/certificate-DQLABINTP1EWSOAA.pdf)
-
-- [Introduction to Data Science with Python by DQLab](certificate/certificate-DQLABINTP1OLAMUH.pdf)
-
-- [Exploratory Data Analysis with Python for Beginner by DQlab](certificate/certificate-DQLABINTP1RTALEG.pdf)
-
-- [Fundamental SQL with SELECT Statement](certificate/certificate-DQLABSQLT1JMUBCP.pdf)
-
-- [Introduction to Deep Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intro%20to%20Deep%20Learning.png)
+* [Intermediate Machine Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intermediate%20Machine%20Learning.png)
+* [Introduction to SQL by Kaggle](certificate/Fikri%20Abdillah%20-%20Intro%20to%20SQL.png)
+* [Introduction to Machine Learning](certificate/Fikri%20Abdillah%20-%20Intro%20to%20Machine%20Learning%20(1).png)
+* [Data Wragling by DQLab](https://github.com/FikriAbdillah01/datascience-portfolio/blob/24520a255e990a004796dbb50dbc020ec5122795/certificate/certificate-DQLABDTWP1UAUDBS.pdf)
+* [Machine Learning with Python for Beginner by DQLab](certificate/certificate-DQLABDVIZ2JEWCRW.pdf)
+* [Python for Data Professional Beginner by DQLab](certificate/certificate-DQLABINTP1EJGMHD.pdf)
+* [Python Fundamental for Data Science by DQLab](certificate/certificate-DQLABINTP1EWSOAA.pdf)
+* [Introduction to Data Science with Python by DQLab](certificate/certificate-DQLABINTP1OLAMUH.pdf)
+* [Exploratory Data Analysis with Python for Beginner by DQlab](certificate/certificate-DQLABINTP1RTALEG.pdf)
+* [Fundamental SQL with SELECT Statement](certificate/certificate-DQLABSQLT1JMUBCP.pdf)
+* [Introduction to Deep Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intro%20to%20Deep%20Learning.png)
 
 ### ⚛️ Physics Certificate
 
