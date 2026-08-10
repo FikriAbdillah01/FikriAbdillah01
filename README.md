@@ -53,9 +53,9 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 
 ### ⚛️ Physics Certificate
 
-* [International Conference of Condensed Matter Physics in Malang University]()
-* [International Conference of Theoretical Physiscs in Malang Universtiy]()
-* [Remote Experience for Young Engineers and Scientist (REYES) by University of California Berkeley]()
+* [International Conference of Theoretical Physics and Nonlinear Phenomena 2019 in Malang University](https://github.com/FikriAbdillah01/datascience-portfolio/blob/main/certificate/Fikri%20Abdillah_Certificate_CTPNP2019.jpg)
+* [International Conference on Science and Applied Science 2020 in Universitas Sebelas Maret](https://github.com/FikriAbdillah01/datascience-portfolio/blob/main/certificate/Fikri%20Abdillah%20Certificate-ICSAS%202020.pdf)
+* [Remote Experience for Young Engineers and Scientist (REYES) 2023 by University of California Berkeley](https://github.com/FikriAbdillah01/datascience-portfolio/blob/main/certificate/Fikri%20Abdillah_Certificate_REYES2023.pdf)
 
 <!--
 **FikriAbdillah01/FikriAbdillah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
