@@ -36,7 +36,7 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 * [Kaggle Challenge: Titanic Problems](https://www.kaggle.com/code/fikriabdillah98/analyze-titanic-problems)
 * [Kaggle Challenge: Obesity Risk Prediction 1st](https://github.com/FikriAbdillah01/datascience-portfolio/blob/cbb2b572d96e0710ca59a0933d4df87f248ed192/Obesity%20Prediction/Obesity%20Prediction%20Ordinal%20Encoder%20XGBClassifier.ipynb)
 * [Kaggle Challenge: Obesity Risk Prediction 2nd ](https://www.kaggle.com/code/fikriabdillah98/obesity-prediction-2)
-* [Kaggle Challege: Smartphone Addiction](https://www.kaggle.com/code/fikriabdillah98/predicting-smartphone-addiction)
+* [Kaggle Challege: Smartphone Addiction](https://github.com/FikriAbdillah01/predicting_smartphone_addiction)
 
 ### 📊 Data Science Certificate
 
