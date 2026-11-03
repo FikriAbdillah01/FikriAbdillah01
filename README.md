@@ -16,7 +16,7 @@ I am a **Physics graduate** turned **Data Scientist** and **Machine Learning Ent
 
 ### 📈 Current Focus
 * Looking for opportunities where I can apply my applied machine learning skills to real-world impact. I am highly interested in roles related to Data Analysis, Predictive Modeling, Data Engineering, and Machine Learning Engineering.
-* Developing a **Physics-Informed Neural Network (PINN)** to solve the **Two-Dimensional (2D) Heat Equation**. This project focuses on integrating fundamental thermodynamic partial differential equations (PDEs) directly into deep learning architectures to simulate continuous temperature distribution and thermal dissipation without relying on heavy traditional numerical solvers.
+* Developing a **Physics-Informed Neural Network (PINN)** to predict the **Internal Short Circuit on the Li ion Batteries**.
 
 
 
